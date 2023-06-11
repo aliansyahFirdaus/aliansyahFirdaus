@@ -1,51 +1,46 @@
-# <Your Name>
+# Profile
+
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blueviolet)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-informational)](https://www.linkedin.com/in/YourLinkedInProfile)
 
 ## Introduction
 
-I am a passionate Frontend Developer and Mobile Developer (React Native) with over 1 year of experience. Currently, I am working at Redigan, a startup focused on innovative solutions in the tech industry. I am enthusiastic about creating user-friendly interfaces and building high-quality mobile applications.
+Hi there! I'm YourName, a front-end developer and mobile developer (React Native) currently working at Redigan. I have over 1 year of experience in the industry and I'm passionate about creating user-friendly and efficient applications.
 
 ## Skills
 
-- Frontend Development: HTML, CSS, JavaScript, ReactJS
-- Mobile Development: React Native
-- Version Control: Git, GitHub
-- UI/UX Design: Figma, Adobe XD
-- Testing: Jest, Enzyme
-- Project Management: Agile, Scrum
-
-## Work Experience
-
-### Frontend Developer & Mobile Developer at Redigan (Month Year - Present)
-
-- Collaborate with cross-functional teams to develop and maintain responsive web applications using modern web technologies.
-- Develop mobile applications using React Native framework to ensure a seamless user experience across iOS and Android platforms.
-- Implement pixel-perfect UI/UX designs provided by the design team, focusing on usability and performance optimization.
-- Write clean, maintainable, and efficient code, adhering to best practices and coding standards.
-- Conduct code reviews and provide constructive feedback to team members to ensure code quality and consistency.
+- HTML5, CSS3, JavaScript
+- React, Redux
+- React Native
+- Git, GitHub
+- UI/UX Design
 
 ## Projects
 
-### Project 1: [Project Name](link-to-repo)
+Here are some of the notable projects I have worked on:
 
-Short description of the project and your contributions.
+- [Project 1](link/to/project1) - Short description of the project.
+- [Project 2](link/to/project2) - Short description of the project.
+- [Project 3](link/to/project3) - Short description of the project.
 
-### Project 2: [Project Name](link-to-repo)
+## Experience
 
-Short description of the project and your contributions.
+**Front-end Developer**\
+[Redigan](https://www.redigan.com)\
+*Month Year - Present*
+
+- Description of your responsibilities and achievements.
 
 ## Education
 
-- Bachelor's Degree in Computer Science, University Name, Year
+**Bachelor's Degree in Computer Science**\
+Your University\
+*Year of Graduation*
 
-## Certifications
+## Contact
 
-- Certification Name, Issuing Organization, Year
+Feel free to reach out to me via email or connect with me on LinkedIn.
 
-## Contact Information
-
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Personal Website: [Your Personal Website](https://www.yourwebsite.com)
-
-Feel free to reach out to me via email or LinkedIn. I am open to new opportunities, collaborations, and discussions.
+Email: yourname@example.com
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
 
