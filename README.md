@@ -12,4 +12,4 @@ Feel free to reach out to me via email or connect with me
 
 [![GitHub](https://img.shields.io/badge/aliansyahFirdaus-blueviolet?logo=github)](https://github.com/aliansyahFirdaus)
 [![LinkedIn](https://img.shields.io/badge/aliansyahFirdaus-informational?logo=linkedin)](https://www.linkedin.com/in/aliansyah)
-![Email](https://img.shields.io/badge/aliansyah.it%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
+![Email](https://img.shields.io/badge/aliansyah.dev%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
