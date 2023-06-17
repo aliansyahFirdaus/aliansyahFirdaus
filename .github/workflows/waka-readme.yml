@@ -1,4 +1,4 @@
-name: Waka Me
+name: Waka ReadMe
 
 on:
   workflow_dispatch:
