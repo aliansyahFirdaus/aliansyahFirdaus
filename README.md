@@ -1,3 +1,5 @@
+![readmebox](https://github.com/aliansyahFirdaus/aliansyahFirdaus/assets/74974463/0d822b87-61c3-4ff3-a854-2f4bcb437a12)
+
 ## Hi, I'm Aliansyah Firdaus!
 
 Front-end developer and mobile developer (React Native) currently working at Redigan. I have over 1 year of experience in the industry and I'm passionate about creating user-friendly and efficient applications.
