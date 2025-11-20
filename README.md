@@ -2,7 +2,7 @@
 
 ## Hi, I'm Aliansyah Firdaus!
 
-Front-end developer and mobile developer (React Native) currently working at Redigan. I have over 1 year of experience in the industry and I'm passionate about creating user-friendly and efficient applications.
+Front-end developer and mobile developer (React Native) currently working at Redikru. I have over 1 year of experience in the industry and I'm passionate about creating user-friendly and efficient applications.
 
 ## Skills
 
